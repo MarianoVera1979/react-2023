@@ -1,9 +1,13 @@
 import './App.css';
+import Titulo from './componentes/Titulo';
 
 function App() {
   return (
     <div className="App">
-      Hola Mundo!
+          
+     <Titulo nombre='Mariano'/>
+    
+    Hola mundo!
     </div>
   );
 }
