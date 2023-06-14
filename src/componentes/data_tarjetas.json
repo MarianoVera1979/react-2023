@@ -1,0 +1,40 @@
+[
+    {
+    "id": 1,
+    "imagen": "imagenes/paisajeColombia.jpg",
+    "titulo": "Fotos de gatitos",
+    "descripcion": "Descripción de las fotos de Chipannoli",
+    "precio": 15534,
+    "envio": true
+},
+
+{
+    "id": 2,
+    "imagen": "imagenes/paisajeColombia.jpg",
+    "titulo": "Perros",
+    "descripcion": "Perros copados",
+    "precio": 25534,
+    "envio": true
+},
+{
+    "id": 3,
+    "imagen": "imagenes/paisajeColombia.jpg",
+    "titulo": "Chanchos",
+    "descripcion": "Chanchos Sucios",
+    "precio": 56599,
+    "envio": true
+},
+
+{
+    "id": 4,
+    "imagen": "imagenes/paisajeColombia.jpg",
+    "titulo": "Caballos",
+    "descripcion": "Caballos veloces",
+    "precio": 1000,
+    "envio": true
+}
+
+
+
+
+]

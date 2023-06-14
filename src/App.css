@@ -1,5 +1,5 @@
 .App {
   text-align: center;
-  color: var(--rosa)
-};
-
+  /* Podemos utilizar las variables que declaramos en index.css */
+  color: var(--rosa);
+}
