@@ -20,7 +20,7 @@ function App() {
         const id = Math.random();
 
         return (
-          <p key="id">El precio con 10% off es: {precio}</p>
+          <p key={id}>El precio con 10% off es: {precio}</p>
         )
       })}
       
