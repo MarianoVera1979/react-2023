@@ -5,6 +5,7 @@ import Title from "./componentes/Title";
 import CardWrapper from "./componentes/CardWrapper";
 import EjemploEventos from "./componentes/EjemploEventos";
 import Contador from "./componentes/Contador";
+import Pokemon from "./componentes/Pokemon";
 
 function App() {
   const numeros = [45, 76, 23, 670, 3, 78];
@@ -12,6 +13,9 @@ function App() {
   // JSX
   return (
     <div className="App">
+      
+      <Pokemon />
+      <br />
       <EjemploEventos />
       <Title nombre="Mariano!" />
       <Contador />
